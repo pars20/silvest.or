@@ -29,7 +29,9 @@
 ## گرم
 
 گرم به دلار ( ریال / تومان / هزار / ملیون )
+
 `[silvestor gram dolar]`
+
 
 
 ## مثقال
@@ -62,10 +64,10 @@
 
 # تاریخ
 
-## تاریخ امروز = 5 مرداد
+### تاریخ امروز = 5 مرداد
 `[silvestor today]`
 
-## تاریخ فردا = 6 مرداد
+### تاریخ فردا = 6 مرداد
 `[silvestor tomorrow]`
 
 
@@ -76,17 +78,21 @@
 ## زمان آخرین بروزرسانی
 
 بروزرسانی نقره
+
 `[silvestor time]` = `[silvestor time ons]`
 
 بروزرسانی دلار
+
 `[silvestor time dolar]`
 
 ## زمان آخرین بروزرسانی = چند دقیقه/ساعت پیش
 
 بروزرسانی نقره
+
 `[silvestor timeago]` = `[silvestor timeago ons]`
 
 بروزرسانی دلار
+
 `[silvestor timeago dolar]`
 
 
