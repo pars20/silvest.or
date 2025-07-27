@@ -1,43 +1,72 @@
 # silvest.or
 
+راهنمای شورتکدهای پروژه
 
 
 # قیمت نقره
 
+انس به دلار
+
 `[silvestor] = [silvestor ons dolar]`
+
+انس به ریال
 
 `[silvestor ons rial]`
 
+انس به تومان
+
 `[silvestor ons toman]`
 
+انس به هزار تومان
+
 `[silvestor ons hezar]`
+
+انس به میلیون تومان
 
 `[silvestor ons mil]`
 
 
 ## گرم
-[silvestor gram dolar]
+
+گرم به دلار ( ریال / تومان / هزار / ملیون )
+`[silvestor gram dolar]`
+
 
 ## مثقال
-[silvestor mesghal dolar]
+
+مثقال به دلار ( ریال / تومان / هزار / ملیون )
+
+`[silvestor mesghal dolar]`
+
 
 ## N گرم
-[silvestor 10 dolar]
+
+10 گرم به دلار ( ریال / تومان / هزار / ملیون )
+
+`[silvestor 10 dolar]`
+
 
 
 
 # قیمت دلار
-[silvestor dolar rial]
-[silvestor dolar toman]
-[silvestor dolar hezar]
+
+به ریال
+`[silvestor dolar rial]`
+
+به تومان
+`[silvestor dolar toman]`
+
+هزار تومان
+`[silvestor dolar hezar]`
 
 
 # تاریخ
 
 ## تاریخ امروز = 5 مرداد
-[silvestor today]
+`[silvestor today]`
+
 ## تاریخ فردا = 6 مرداد
-[silvestor tomorrow]
+`[silvestor tomorrow]`
 
 
 
@@ -45,9 +74,23 @@
 
 
 ## زمان آخرین بروزرسانی
-[silvestor time] = [silvestor time ons]
-[silvestor time dolar]
+
+بروزرسانی نقره
+`[silvestor time]` = `[silvestor time ons]`
+
+بروزرسانی دلار
+`[silvestor time dolar]`
 
 ## زمان آخرین بروزرسانی = چند دقیقه/ساعت پیش
+
+بروزرسانی نقره
 `[silvestor timeago]` = `[silvestor timeago ons]`
+
+بروزرسانی دلار
 `[silvestor timeago dolar]`
+
+
+
+
+
+
