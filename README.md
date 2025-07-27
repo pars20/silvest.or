@@ -2,7 +2,7 @@
 
 
 
-## قیمت نقره
+# قیمت نقره
 
 `[silvestor] = [silvestor ons dolar]`
 
@@ -25,18 +25,14 @@
 [silvestor 10 dolar]
 
 
-## زمان آخرین بروزرسانی
-[silvestor time] = [silvestor time ons]
-[silvestor time dolar]
 
-## زمان آخرین بروزرسانی = چند دقیقه/ساعت پیش
-[silvestor timeago] = [silvestor timeago ons]
-[silvestor timeago dolar]
-
-## قیمت دلار
+# قیمت دلار
 [silvestor dolar rial]
 [silvestor dolar toman]
 [silvestor dolar hezar]
+
+
+# تاریخ
 
 ## تاریخ امروز = 5 مرداد
 [silvestor today]
@@ -45,3 +41,13 @@
 
 
 
+# زمان
+
+
+## زمان آخرین بروزرسانی
+[silvestor time] = [silvestor time ons]
+[silvestor time dolar]
+
+## زمان آخرین بروزرسانی = چند دقیقه/ساعت پیش
+`[silvestor timeago]` = `[silvestor timeago ons]`
+`[silvestor timeago dolar]`
