@@ -53,13 +53,17 @@
 # قیمت دلار
 
 به ریال
+
 `[silvestor dolar rial]`
 
 به تومان
+
 `[silvestor dolar toman]`
 
 هزار تومان
+
 `[silvestor dolar hezar]`
+
 
 
 # تاریخ
