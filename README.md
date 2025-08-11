@@ -89,6 +89,14 @@
 
 `[silvestor time dolar]`
 
+
+بروزرسانی طلا
+
+`[silvestor time gold]`
+
+
+
+
 ## زمان آخرین بروزرسانی = چند دقیقه/ساعت پیش
 
 بروزرسانی نقره
@@ -98,6 +106,24 @@
 بروزرسانی دلار
 
 `[silvestor timeago dolar]`
+
+بروزرسانی طلا
+
+`[silvestor timeago gold]`
+
+
+
+
+
+
+# قیمت طلا
+
+انس طلا به دلار
+
+`[silvestor gold]`
+
+
+
 
 
 
