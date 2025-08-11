@@ -2,8 +2,14 @@
 
 
 ## دمو
+
 دموی آنلاین » [قیمت نقره](https://silvestor.ir/silver-price/)
 
+
+
+![سیلوستور = قیمت روز نقره](https://silvestor.ir/wp-content/uploads/2022/11/logo.png)
+
+<br/><br/><br/>
 
 
 راهنمای شورتکدهای پروژه
