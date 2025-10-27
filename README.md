@@ -152,7 +152,7 @@ B = rial/toman/hezar/mil
 
 ## طلا جهانی به سایر واحدها
 
-انس طلا به ریال/تومان/هزار/میلیون
+انس طلا(24) به ریال/تومان/هزار/میلیون
 
 `[silvestor gold rial]`
 
@@ -170,6 +170,13 @@ A = ons/gram/mesghal/10
 B = rial/toman/hezar/mil
 
 
+## طلا جهانی بصورت 18 عیار
+
+محاسبه قیمت طلا 18 عیار براساس قیمت طلای 24 جهانی
+
+`[silvestor gold geram18 B net]`
+
+B = dolar/rial/toman/hezar/mil
 
 
 
