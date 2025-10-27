@@ -178,6 +178,7 @@ B = rial/toman/hezar/mil
 ## نسبت قیمت انس طلا(24) به انس نقره
 
 نسبت با دو رقم اعشار
+
 `[silvestor ratio]`
 
 و یا
