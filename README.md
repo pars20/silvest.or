@@ -248,11 +248,11 @@ B = dolar/rial/toman/hezar/mil
 
 نسبت با دو رقم اعشار
 
-`[silvestor ratio]`
+`[silvestor ratio]`    =    `[silvestor ratio gold/silver]`
 
-و یا
 
-`[silvestor ratio gold/silver]`
+
+
 
 ## نسبت قیمت انس طلا(24) به انس پلاتین
 
