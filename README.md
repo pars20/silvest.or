@@ -192,7 +192,9 @@ B = dolar/rial/toman/hezar/mil
 
 گرم طلا(18) به ریال/تومان/هزار/میلیون
 
-`[silvestor tala rial]`
+`[silvestor tala A]`
+
+A = rial/toman/hezar/mil
 
 
 
@@ -222,9 +224,11 @@ B = rial/toman/hezar/mil
 
 ## پلاتین جهانی به سایر واحدها
 
-انس پلاتین به ریال/تومان/هزار/میلیون
+انس پلاتین به دلار/ریال/تومان/هزار/میلیون
 
-`[silvestor platin rial]`
+`[silvestor platin A]`
+
+A = dolar/rial/toman/hezar/mil
 
 
 
