@@ -109,14 +109,13 @@ B = rial/toman/hezar/mil
 
 `[silvestor time]` = `[silvestor time ons]`
 
-بروزرسانی دلار
 
-`[silvestor time dolar]`
+بروزرسانی سایر ایندکس ها
 
+`[silvestor time A]`
 
-بروزرسانی طلا
+A = dolar/gold/tala/platin
 
-`[silvestor time gold]`
 
 
 
@@ -131,9 +130,11 @@ B = rial/toman/hezar/mil
 
 `[silvestor timeago dolar]`
 
-بروزرسانی طلا
+بروزرسانی سایر ایندکس ها
 
-`[silvestor timeago gold]`
+`[silvestor timeago A]`
+
+A = dolar/gold/tala/platin
 
 
 
