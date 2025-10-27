@@ -126,9 +126,6 @@ A = dolar/gold/tala/platin
 
 `[silvestor timeago]` = `[silvestor timeago ons]`
 
-بروزرسانی دلار
-
-`[silvestor timeago dolar]`
 
 بروزرسانی سایر ایندکس ها
 
