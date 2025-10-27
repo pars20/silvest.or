@@ -173,13 +173,29 @@ B = rial/toman/hezar/mil
 
 
 
-# نسبت قیمت
+# نسبت های قیمتی
 
-## نسبت قیمت انس طلا به انس نقره
+## نسبت قیمت انس طلا(24) به انس نقره
+
+نسبت با دو رقم اعشار
+`[silvestor ratio]`
+و یا
+`[silvestor ratio gold/silver]`
+
+## نسبت قیمت انس طلا(24) به انس پلاتین
 
 نسبت با دو رقم اعشار
 
-`[silvestor ratio]`
+`[silvestor ratio gold/platin]`
+
+
+## نسبت قیمت انس پلاتین به انس نقره
+
+نسبت با دو رقم اعشار
+
+`[silvestor ratio platin/silver]`
+
+
 
 
 
