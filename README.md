@@ -285,7 +285,9 @@ A = ons / gram / dolar
 
 انس و گرم برای نقره است.
 
-B = percent / dolar/rial/toman/hezar/mil
+B = percent / emoji / dolar/rial/toman/hezar/mil
+
+خروجی مقدار emoji برای تغییرات مثبت (🟢) و در غیراینصورت (🔻) است.
 
 
 
