@@ -281,9 +281,11 @@ B = dolar/rial/toman/hezar/mil
 `[silvestor change A B]`
 
 
-A = ons (silver), gram (silver), dolar
+A = ons / gram / dolar
 
-B = percent/dolar/rial/toman/hezar/mil
+انس و گرم برای نقره است.
+
+B = percent / dolar/rial/toman/hezar/mil
 
 
 
