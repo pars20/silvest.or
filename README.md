@@ -282,6 +282,7 @@ B = dolar/rial/toman/hezar/mil
 
 
 A = ons (silver), gram (silver), dolar
+
 B = percent/dolar/rial/toman/hezar/mil
 
 
